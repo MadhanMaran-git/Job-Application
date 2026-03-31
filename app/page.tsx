@@ -11,7 +11,7 @@ export default function home(){
                <div className="max-auto max-w-4xl text-center">
                   <h1 className="text-black mb-6 text-6xl font-bold " >A way to improve your job</h1>
                   <p className="text-muted-foreground mb-10 text-xl">
-                     manage your job search in one place
+                     manage your job search in one 
                   </p>
                   <div className="flex flex-col items-center gap-4">
                      <Link href={"/sign-in"}>
