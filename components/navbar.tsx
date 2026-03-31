@@ -11,6 +11,9 @@ export default function Navbar(){
                 className="flex item-center gap-2  text-2xl font-semibold text-primary" >
                 <Briefcase></Briefcase>Job Tracker
                 </Link>
+                <div>
+                    <link href="/sign-in">signin</link>
+                </div>
             </div>
         </nav>
     )
